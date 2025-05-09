@@ -45,7 +45,7 @@ Buying a house is one of the most significant financial decisions in a person's 
 
 ## 📂 Data Sources
 
-- *Dataset*: [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+- *Dataset*: https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?resource=download
 - *Source*: Kaggle
 - *Access Type*: Public and free
 - *Features*:
